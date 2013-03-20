@@ -1,4 +1,4 @@
-customer-meta-project-template
-==============================
+customer-meta-project-template-de
+=================================
 
-customer-meta-project-template
+In this template the main language is german. See the customer-meta-project-template-em for an english version.
